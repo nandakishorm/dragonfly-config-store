@@ -1,0 +1,2 @@
+spring:
+  service: Hello world from defalt config!
